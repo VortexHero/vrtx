@@ -1,0 +1,45 @@
+{
+  "projects": [
+    {
+      "name": "rutgers.quest",
+      "web": "https://rutgers.quest",
+      "ios": "https://apps.apple.com/us/app/rutgers-quest/id6465693759",
+      "tagline": "rutgers.quest is a Web and iOS application I made that allows Rutgers University students to watch closed courses and get a push notification when a course they are watching has an open seat available.",
+      "description": "- rutgers.quest is a Web and iOS application I made that allows Rutgers University students to watch closed courses and get a push notification when a course they are watching has an open seat available.\n- rutgers.quest's backend runs on an Express server hosted on a virtual machine on the cloud, utilizing various Firebase (Google Cloud) services, such as Authentication and Cloud Messaging.\n- rutgers.quest's frontend uses JavaScript, HTML, and CSS on the Web and Swift and SwiftUI on iOS."
+    },
+    {
+      "name": "Atrioc Community Projects",
+      "projects": [
+        {
+          "name": "W.H.I.T.E.B.O.A.R.D.",
+          "web": "https://www.twitch.tv/popout/atrioc/extensions/272fz8hpiehgc20lh33dvrlf4epb5c/panel",
+          "description": "- The W.H.I.T.E.B.O.A.R.D. is a Twitch extension that shows the content creator's plans, schedule, and community events.\n- The application runs on an embedded website, using an iframe below their channel page for over 300,000 followers to use.\n- The application's programming stack involves Node.js, React, TypeScript, Vite, MongoDB, and TailwindCSS.\n- Trusted community members are involved with updating the data using a spreadsheet that connects to the application. The application automatically refreshes with any new data."
+        },
+        {
+          "name": "Discord Bot",
+          "description": "- The Discord bot helps engage people in the aforementioned Discord server.\n- The bot is programmed in JavaScript using Discord.js."
+        }
+      ],
+      "tagline": "Various projects I made for the community of the content creator, Atrioc.",
+      "description": "I have been involved with the community of a YouTube creator with over 500,000 subscribers to moderate and develop projects for a Discord server related to them with over 9,000 members."
+    },
+    {
+      "name": "Passportify",
+      "web": "https://passportify.vrtx.dev",
+      "tagline": "Passportify is a Web application I made that allows users to generate an image summarizing their activity on Spotify or Last.fm.",
+      "description": "- Passportify is a Web application I made that allows users to generate an image summarizing their activity on Spotify or Last.fm.\n- Passportify utilizes the Spotify and Last.fm APIs as well as HTML Canvas."
+    },
+    {
+      "name": "Inkstorm",
+      "web": "https://inkstorm.app",
+      "tagline": "Inkstorm is a Web application I made that allows users to upload notes to the cloud.",
+      "description": "- Inkstorm is a Web application I made that allows users to upload notes to the cloud.\n- Inkstorm utilizes many Firebase (Google Cloud) services, such as Cloud Functions and Cloud Firestore."
+    },
+    {
+      "name": "vrtx.dev",
+      "github": "https://github.com/VortexHero/vrtx.dev",
+      "tagline": "vrtx.dev is this website.",
+      "description": "- vrtx.dev is my personal portfolio.\n- vrtx.dev uses React, TypeScript, Vite, and TailwindCSS."
+    }
+  ]
+}
