@@ -7,7 +7,7 @@ function App() {
   return (
     <main className="min-h-screen w-screen bg-gray-950 text-gray-200">
       <div className="flex w-full flex-col sm:flex-row">
-        <div className="z-[1] flex h-screen w-full basis-1/3 flex-col gap-4 overflow-scroll p-4 sm:sticky sm:top-0">
+        <div className="z-[1] flex h-screen w-full basis-1/3 flex-col gap-4 overflow-y-auto p-4 sm:sticky sm:top-0">
           <h1 className="text-2xl font-semibold">
             👋 Hi, I'm{" "}
             <span className="bg-gradient-to-br from-purple-500 to-violet-500 bg-clip-text font-bold text-transparent">
