@@ -42,7 +42,7 @@ function ProjectItem({
           target="_blank"
           className="mb-2 flex w-fit items-center gap-2 underline decoration-gray-400 decoration-dotted"
         >
-          <FontAwesomeIcon icon={faGlobe} />
+          <FontAwesomeIcon icon={faGlobe} fixedWidth />
           Website
           <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
         </a>
@@ -55,7 +55,7 @@ function ProjectItem({
           target="_blank"
           className="mb-2 flex w-fit items-center gap-2 underline decoration-gray-400 decoration-dotted"
         >
-          <FontAwesomeIcon icon={faApple} />
+          <FontAwesomeIcon icon={faApple} fixedWidth />
           iOS App
           <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
         </a>
@@ -68,7 +68,7 @@ function ProjectItem({
           target="_blank"
           className="mb-2 flex w-fit items-center gap-2 underline decoration-gray-400 decoration-dotted"
         >
-          <FontAwesomeIcon icon={faGithub} />
+          <FontAwesomeIcon icon={faGithub} fixedWidth />
           GitHub Repository
           <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
         </a>
